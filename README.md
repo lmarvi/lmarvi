@@ -1,5 +1,5 @@
 # Repositorio GitHub de Luis
-![Imagen de Portada](url_de_la_imagen) 
+![Imagen de Portada](recursos/ramas_ia.jpg) 
 
 ## Descripción 
 Breve descripción del proyecto, objetivos y funcionalidades principales. 
