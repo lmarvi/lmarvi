@@ -3,3 +3,4 @@
 
 #### Creado mi primer proyecto en GitHub
 >"El éxito es el resultado del trabajo duro, la dedicación y el aprendizaje del fracaso." - Colin Powell
+![Imagen de motivación](recursos/bolt.jpg)
